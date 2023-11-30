@@ -15,4 +15,4 @@ This project is a book search engine, refactored to use GraphQL and Apollo Serve
 
 Deploy here: https://guarded-stream-37558-1f11e4aa7263.herokuapp.com/
 
-<img src- "images">
+![book search website](https://github.com/Mirandad10/Book-Search/assets/140126817/36528b59-e3cd-4daa-8e6b-524c9fd15426)
